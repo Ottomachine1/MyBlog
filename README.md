@@ -107,9 +107,6 @@ python manage.py compress --force
 [更多配置介绍](/docs/config.md)  
 [集成elasticsearch](/docs/es.md)
 
-## 问题相关
-
-有任何问题欢迎提Issue,或者将问题描述发送至我邮箱 `liangliangyy#gmail.com`.我会尽快解答.推荐提交Issue方式.  
 
 ---
  ## 致大家🙋‍♀️🙋‍♂️
@@ -117,21 +114,11 @@ python manage.py compress --force
 您的回复将会是我继续更新维护下去的动力。 
 
 
-## 捐赠
-如果您觉得本项目对您有所帮助，欢迎您请我喝杯咖啡，您的支持是我最大的动力，您可以扫描下方二维码为我付款，谢谢。
-### 支付宝：
-<div>    
-<img src="https://resource.lylinux.net/image/2017/12/16/IMG_0207.jpg" width="150" height="150" />
-</div>  
-
-### 微信：
-<div>    
-<img src="https://resource.lylinux.net/image/2017/12/16/IMG_0206.jpg" width="150" height="150" />
-</div>
-
----
-
 感谢jetbrains
 <div>    
 <a href="https://www.jetbrains.com/?from=DjangoBlog"><img src="https://resource.lylinux.net/image/2020/07/01/logo.png" width="150" height="150"></a>
 </div>
+
+### 原项目链接
+https://github.com/liangliangyy/DjangoBlog/tree/master
+感谢大佬的开源
