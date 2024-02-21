@@ -1,0 +1,54 @@
+[2024-02-20 22:29:20,253] INFO [django.utils.autoreload.run_with_reloader:668 autoreload] Watching for file changes with StatReloader
+[2024-02-20 22:31:16,220] INFO [django.utils.autoreload.run_with_reloader:668 autoreload] Watching for file changes with StatReloader
+[2024-02-20 22:31:18,456] INFO [blog.views.get_queryset_from_cache:73 views] set view cache.key:index_1
+[2024-02-20 22:31:18,466] INFO [blog.context_processors.seo_processor:17 context_processors] set processor cache.
+[2024-02-20 22:31:18,536] INFO [djangoblog.utils.get_blog_setting:171 utils] set cache get_blog_setting
+[2024-02-20 22:31:18,536] INFO [djangoblog.utils.get_blog_setting:171 utils] set cache get_blog_setting
+[2024-02-20 22:31:18,756] INFO [blog.templatetags.blog_tags.load_sidebar:139 blog_tags] load sidebar
+[2024-02-20 22:31:18,780] INFO [blog.templatetags.blog_tags.load_sidebar:183 blog_tags] set sidebar cache.key:sidebari
+[2024-02-20 22:32:37,040] INFO [blog.views.get_queryset_from_cache:73 views] set view cache.key:category_list_我是父类目_1
+[2024-02-20 22:32:37,092] INFO [blog.templatetags.blog_tags.load_sidebar:139 blog_tags] load sidebar
+[2024-02-20 22:32:37,097] INFO [blog.templatetags.blog_tags.load_sidebar:183 blog_tags] set sidebar cache.key:sidebarl
+[2024-02-20 22:32:38,314] INFO [blog.views.get_queryset_from_cache:73 views] set view cache.key:archives
+[2024-02-20 22:32:55,946] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":10,"success":0,"not_same_site":["https://example.com/author/machine.html"]}
+[2024-02-20 22:32:55,946] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":10,"success":0,"not_same_site":["https://example.com/author/machine.html"]}
+[2024-02-20 22:32:55,947] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] 
+[2024-02-20 22:32:55,947] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] 
+[2024-02-20 22:32:55,947] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebari
+[2024-02-20 22:32:55,947] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebari
+[2024-02-20 22:32:55,947] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebarl
+[2024-02-20 22:32:55,947] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebarl
+[2024-02-20 22:32:55,947] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebarp
+[2024-02-20 22:32:55,947] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebarp
+[2024-02-20 22:32:55,948] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebara
+[2024-02-20 22:32:55,948] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebara
+[2024-02-20 22:32:55,948] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebars
+[2024-02-20 22:32:55,948] INFO [djangoblog.utils.delete_sidebar_cache:208 utils] delete sidebar key:sidebars
+[2024-02-20 22:32:56,024] INFO [blog.context_processors.seo_processor:17 context_processors] set processor cache.
+[2024-02-20 22:32:56,026] INFO [djangoblog.utils.get_blog_setting:171 utils] set cache get_blog_setting
+[2024-02-20 22:32:56,026] INFO [djangoblog.utils.get_blog_setting:171 utils] set cache get_blog_setting
+[2024-02-20 22:33:30,757] INFO [django.utils.autoreload.trigger_reload:266 autoreload] H:\DjangoProject\DjangoBlog\djangoblog\settings.py changed, reloading.
+[2024-02-20 22:33:31,536] INFO [django.utils.autoreload.run_with_reloader:668 autoreload] Watching for file changes with StatReloader
+[2024-02-20 22:33:34,102] INFO [django.utils.autoreload.trigger_reload:266 autoreload] H:\DjangoProject\DjangoBlog\djangoblog\settings.py changed, reloading.
+[2024-02-20 22:33:34,547] INFO [django.utils.autoreload.run_with_reloader:668 autoreload] Watching for file changes with StatReloader
+[2024-02-20 22:34:05,983] INFO [django.utils.autoreload.run_with_reloader:668 autoreload] Watching for file changes with StatReloader
+[2024-02-20 22:34:08,230] INFO [blog.views.get_queryset_from_cache:73 views] set view cache.key:index_1
+[2024-02-20 22:34:08,235] INFO [blog.context_processors.seo_processor:17 context_processors] set processor cache.
+[2024-02-20 22:34:08,238] INFO [djangoblog.utils.get_blog_setting:171 utils] set cache get_blog_setting
+[2024-02-20 22:34:08,238] INFO [djangoblog.utils.get_blog_setting:171 utils] set cache get_blog_setting
+[2024-02-20 22:34:08,359] INFO [blog.templatetags.blog_tags.load_sidebar:139 blog_tags] load sidebar
+[2024-02-20 22:34:08,378] INFO [blog.templatetags.blog_tags.load_sidebar:183 blog_tags] set sidebar cache.key:sidebari
+[2024-02-20 22:34:49,522] INFO [blog.views.get_queryset_from_cache:68 views] get view cache.key:index_1
+[2024-02-20 22:34:52,164] INFO [blog.views.get_queryset_from_cache:68 views] get view cache.key:index_1
+[2024-02-20 22:35:01,022] INFO [blog.views.get_queryset_from_cache:68 views] get view cache.key:index_1
+[2024-02-20 22:35:51,206] INFO [blog.views.get_queryset_from_cache:68 views] get view cache.key:index_1
+[2024-02-20 22:36:03,801] INFO [blog.views.get_queryset_from_cache:68 views] get view cache.key:index_1
+[2024-02-20 22:36:11,487] INFO [django.utils.autoreload.run_with_reloader:668 autoreload] Watching for file changes with StatReloader
+[2024-02-20 22:36:12,948] INFO [blog.views.get_queryset_from_cache:73 views] set view cache.key:index_1
+[2024-02-20 22:36:12,952] INFO [blog.context_processors.seo_processor:17 context_processors] set processor cache.
+[2024-02-20 22:36:12,955] INFO [djangoblog.utils.get_blog_setting:171 utils] set cache get_blog_setting
+[2024-02-20 22:36:12,955] INFO [djangoblog.utils.get_blog_setting:171 utils] set cache get_blog_setting
+[2024-02-20 22:36:13,030] INFO [blog.templatetags.blog_tags.load_sidebar:139 blog_tags] load sidebar
+[2024-02-20 22:36:13,034] INFO [blog.templatetags.blog_tags.load_sidebar:183 blog_tags] set sidebar cache.key:sidebari
+[2024-02-21 00:43:59,998] INFO [django.utils.autoreload.trigger_reload:266 autoreload] H:\DjangoProject\DjangoBlog\djangoblog\wsgi.py changed, reloading.
+[2024-02-21 00:44:01,140] INFO [django.utils.autoreload.run_with_reloader:668 autoreload] Watching for file changes with StatReloader
